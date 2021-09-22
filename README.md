@@ -1,4 +1,7 @@
 # Text-Mining-R
+
+#version2 https://www.tidytextmining.com/dtm.html
+
 A simple script in R to make Text Mining and Sentiment Analysis based on: https://www.red-gate.com/simple-talk/sql/bi/text-mining-and-sentiment-analysis-with-r/
 
 Printer friendly version
